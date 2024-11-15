@@ -1,0 +1,4 @@
+ccxt
+slack_sdk
+pandas
+flask
